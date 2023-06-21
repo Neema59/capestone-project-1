@@ -5,7 +5,7 @@ This is a simple movie recommendation system that uses natural language processi
 
 ## Overview
 
-The movie recommendation system takes a movie description as input and compares it with a collection of movies to find the most similar one. It utilizes the spaCy library for tokenization and semantic similarity calculations.
+The movie recommendation system takes a movie description as input and compares it with a collection of movies to find the most similar one. It utilises the spaCy library for tokenization and semantic similarity calculations.
 
 ## Requirements
 
