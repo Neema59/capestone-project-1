@@ -10,8 +10,8 @@ The movie recommendation system takes a movie description as input and compares 
 ## Requirements
 
 - Python 3.11
-- spaCy library 
-- en_core_web_sm language model for spaCy
+- spaCy library (version 1.0.1)
+- en_core_web_sm language model for spaCy (v1.0.1)
 - Movie data file
 
 ## Installation
