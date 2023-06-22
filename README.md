@@ -1,4 +1,4 @@
-# finalCapstone
+
 # Movie Recommendation System
 
 This is a simple movie recommendation system that uses natural language processing (NLP) techniques to find the most similar movie based on a given movie description.
