@@ -9,14 +9,14 @@ The movie recommendation system takes a movie description as input and compares 
 
 ## Requirements
 
-- Python 3
+- Python 3.11
 - spaCy library 
 - en_core_web_sm language model for spaCy
 - Movie data file
 
 ## Installation
 
-1. Install Python 3 from the official Python website: https://www.python.org/downloads/
+1. Install Python 3.11 from the official Python website: https://www.python.org/downloads/
 
 2. Install the spaCy library by running the following command:
 pip install spacy 
